@@ -1,6 +1,6 @@
 # FibonacciConga
 
-1. git clone https://github.com/DukeLuke94/FibonacciConga.git
+1. `git clone` https://github.com/DukeLuke94/FibonacciConga.git
 
 2. take dancing lessons
   
